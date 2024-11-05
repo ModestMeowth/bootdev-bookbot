@@ -1,0 +1,8 @@
+.direnv
+.envrc
+bin
+pkg
+src
+flake.nix
+flake.lock
+result
